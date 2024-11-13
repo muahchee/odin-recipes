@@ -4,6 +4,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     display:flex;
     justify-content: center;
+    padding-top:30px;
+    background-color: rgb(49, 40, 22);
 }
 
 h1{
@@ -25,6 +27,7 @@ h1{
         transparent 2px 2lh
       );
     border: 2px solid lightskyblue;
+
 
 }
 
