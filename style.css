@@ -21,7 +21,7 @@ h1{
     flex-direction:column;
     background-image: repeating-linear-gradient(
         to top,
-        lightskyblue 0 2px,
+        rgba(124, 203, 252, 0.404) 0 2px,
         transparent 2px 2lh
       );
     border: 2px solid lightskyblue;
@@ -39,6 +39,9 @@ h1{
     height:auto;
 }
 
+li{
+    margin-top:10px;
+}
 
 a{
     color:rgb(66, 54, 54);
